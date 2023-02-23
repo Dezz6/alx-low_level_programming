@@ -8,7 +8,7 @@
 int main(void)
 
 {
-	int 1, z = o;
+	int 1, z = 0;
 
 	while (i < 1024)
 	{
