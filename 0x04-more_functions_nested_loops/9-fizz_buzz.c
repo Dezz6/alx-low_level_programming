@@ -34,10 +34,10 @@ int main(void)
 				}
 		if (i != 100)
 		{
-			print(" ");
+			printf(" ");
 		}
 	}
-	printf('\n');
+	printf("\n");
 	return (0);
 }
 
